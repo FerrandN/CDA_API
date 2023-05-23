@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eA0Vjj7UWdpTYzczhlN3U66Qnoj3N65Itu/rMWKbhaw=",
+  "Source": "Corrige_EX_BankTransaction.Api",
+  "BasePath": "_content/Corrige_EX_BankTransaction.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

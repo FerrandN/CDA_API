@@ -1,0 +1,17 @@
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\obj\Debug\net6.0\BankTransactions.Database.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\obj\Debug\net6.0\BankTransactions.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\obj\Debug\net6.0\BankTransactions.Database.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\obj\Debug\net6.0\BankTransactions.Database.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\obj\Debug\net6.0\BankTransactions.Database.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\bin\Debug\net6.0\BankTransactions.Database.deps.json
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\bin\Debug\net6.0\BankTransactions.Database.runtimeconfig.json
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\bin\Debug\net6.0\BankTransactions.Database.dll
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\bin\Debug\net6.0\BankTransactions.Database.pdb
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\bin\Debug\net6.0\BankTransaction.Models.dll
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\bin\Debug\net6.0\BankTransaction.Models.pdb
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\obj\Debug\net6.0\BankTransactions.Database.csproj.CopyComplete
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\obj\Debug\net6.0\BankTransactions.Database.dll
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\obj\Debug\net6.0\refint\BankTransactions.Database.dll
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\obj\Debug\net6.0\BankTransactions.Database.pdb
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\obj\Debug\net6.0\BankTransactions.Database.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransactions.Database\obj\Debug\net6.0\ref\BankTransactions.Database.dll

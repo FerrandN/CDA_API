@@ -1,0 +1,17 @@
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\obj\Debug\net6.0\ApiUser.Db.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\obj\Debug\net6.0\ApiUser.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\obj\Debug\net6.0\ApiUser.Db.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\obj\Debug\net6.0\ApiUser.Db.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\obj\Debug\net6.0\ApiUser.Db.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\bin\Debug\net6.0\ApiUser.Db.deps.json
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\bin\Debug\net6.0\ApiUser.Db.runtimeconfig.json
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\bin\Debug\net6.0\ApiUser.Db.dll
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\bin\Debug\net6.0\ApiUser.Db.pdb
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\bin\Debug\net6.0\ApiUser.Models.dll
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\bin\Debug\net6.0\ApiUser.Models.pdb
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\obj\Debug\net6.0\ApiUser.Db.csproj.CopyComplete
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\obj\Debug\net6.0\ApiUser.Db.dll
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\obj\Debug\net6.0\refint\ApiUser.Db.dll
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\obj\Debug\net6.0\ApiUser.Db.pdb
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\obj\Debug\net6.0\ApiUser.Db.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\Api\ApiUser\ApiUser.Db\obj\Debug\net6.0\ref\ApiUser.Db.dll

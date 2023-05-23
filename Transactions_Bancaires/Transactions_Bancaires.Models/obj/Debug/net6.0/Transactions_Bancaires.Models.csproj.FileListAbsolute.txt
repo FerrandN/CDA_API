@@ -1,0 +1,14 @@
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\bin\Debug\net6.0\Transactions_Bancaires.Models.deps.json
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\bin\Debug\net6.0\Transactions_Bancaires.Models.runtimeconfig.json
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\bin\Debug\net6.0\Transactions_Bancaires.Models.dll
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\bin\Debug\net6.0\Transactions_Bancaires.Models.pdb
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\obj\Debug\net6.0\Transactions_Bancaires.Models.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\obj\Debug\net6.0\Transactions_Bancaires.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\obj\Debug\net6.0\Transactions_Bancaires.Models.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\obj\Debug\net6.0\Transactions_Bancaires.Models.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\obj\Debug\net6.0\Transactions_Bancaires.Models.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\obj\Debug\net6.0\Transactions_Bancaires.Models.dll
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\obj\Debug\net6.0\refint\Transactions_Bancaires.Models.dll
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\obj\Debug\net6.0\Transactions_Bancaires.Models.pdb
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\obj\Debug\net6.0\Transactions_Bancaires.Models.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Models\obj\Debug\net6.0\ref\Transactions_Bancaires.Models.dll

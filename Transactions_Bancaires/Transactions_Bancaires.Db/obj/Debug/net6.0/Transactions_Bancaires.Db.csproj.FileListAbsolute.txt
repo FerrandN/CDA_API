@@ -1,0 +1,15 @@
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\bin\Debug\net6.0\Transactions_Bancaires.Db.deps.json
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\bin\Debug\net6.0\Transactions_Bancaires.Db.dll
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\bin\Debug\net6.0\Transactions_Bancaires.Db.pdb
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\bin\Debug\net6.0\Transactions_Bancaires.Models.dll
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\bin\Debug\net6.0\Transactions_Bancaires.Models.pdb
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\obj\Debug\net6.0\Transactions_Bancaires.Db.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\obj\Debug\net6.0\Transactions_Bancaires.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\obj\Debug\net6.0\Transactions_Bancaires.Db.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\obj\Debug\net6.0\Transactions_Bancaires.Db.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\obj\Debug\net6.0\Transactions_Bancaires.Db.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\obj\Debug\net6.0\Transactions_Bancaires.Db.csproj.CopyComplete
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\obj\Debug\net6.0\Transactions_Bancaires.Db.dll
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\obj\Debug\net6.0\refint\Transactions_Bancaires.Db.dll
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\obj\Debug\net6.0\Transactions_Bancaires.Db.pdb
+C:\Users\nferrand\Desktop\Api\Transactions_Bancaires\Transactions_Bancaires.Db\obj\Debug\net6.0\ref\Transactions_Bancaires.Db.dll

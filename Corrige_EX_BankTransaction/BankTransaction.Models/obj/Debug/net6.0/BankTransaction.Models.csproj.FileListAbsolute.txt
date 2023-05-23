@@ -1,0 +1,14 @@
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\bin\Debug\net6.0\BankTransaction.Models.deps.json
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\bin\Debug\net6.0\BankTransaction.Models.runtimeconfig.json
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\bin\Debug\net6.0\BankTransaction.Models.dll
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\bin\Debug\net6.0\BankTransaction.Models.pdb
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\obj\Debug\net6.0\BankTransaction.Models.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\obj\Debug\net6.0\BankTransaction.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\obj\Debug\net6.0\BankTransaction.Models.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\obj\Debug\net6.0\BankTransaction.Models.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\obj\Debug\net6.0\BankTransaction.Models.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\obj\Debug\net6.0\BankTransaction.Models.dll
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\obj\Debug\net6.0\refint\BankTransaction.Models.dll
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\obj\Debug\net6.0\BankTransaction.Models.pdb
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\obj\Debug\net6.0\BankTransaction.Models.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\Api\Corrige_EX_BankTransaction\BankTransaction.Models\obj\Debug\net6.0\ref\BankTransaction.Models.dll
